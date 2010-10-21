@@ -1,0 +1,7 @@
+C:\Users\Thor\Development\Useful\Main\Test\UnitTests\TestUseful.Core.DataAccess\bin\Debug\TestUseful.Core.DataAccess.dll
+C:\Users\Thor\Development\Useful\Main\Test\UnitTests\TestUseful.Core.DataAccess\bin\Debug\TestUseful.Core.DataAccess.pdb
+C:\Users\Thor\Development\Useful\Main\Test\UnitTests\TestUseful.Core.DataAccess\bin\Debug\nunit.framework.dll
+C:\Users\Thor\Development\Useful\Main\Test\UnitTests\TestUseful.Core.DataAccess\bin\Debug\nunit.framework.xml
+C:\Users\Thor\Development\Useful\Main\Test\UnitTests\TestUseful.Core.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Thor\Development\Useful\Main\Test\UnitTests\TestUseful.Core.DataAccess\obj\Debug\TestUseful.Core.DataAccess.dll
+C:\Users\Thor\Development\Useful\Main\Test\UnitTests\TestUseful.Core.DataAccess\obj\Debug\TestUseful.Core.DataAccess.pdb

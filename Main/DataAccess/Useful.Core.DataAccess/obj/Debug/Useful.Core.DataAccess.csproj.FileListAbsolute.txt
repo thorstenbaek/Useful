@@ -1,0 +1,7 @@
+C:\Users\Thor\Development\Useful\Main\DataAccess\Useful.Core.DataAccess\bin\Debug\Useful.Core.DataAccess.dll
+C:\Users\Thor\Development\Useful\Main\DataAccess\Useful.Core.DataAccess\bin\Debug\Useful.Core.DataAccess.pdb
+C:\Users\Thor\Development\Useful\Main\DataAccess\Useful.Core.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Thor\Development\Useful\Main\DataAccess\Useful.Core.DataAccess\obj\Debug\Useful.Core.DataAccess.dll
+C:\Users\Thor\Development\Useful\Main\DataAccess\Useful.Core.DataAccess\obj\Debug\Useful.Core.DataAccess.pdb
+C:\Users\Thor\Development\Useful\Main\DataAccess\Useful.Core.DataAccess\bin\Debug\Useful.Core.Domain.dll
+C:\Users\Thor\Development\Useful\Main\DataAccess\Useful.Core.DataAccess\bin\Debug\Useful.Core.Domain.pdb
